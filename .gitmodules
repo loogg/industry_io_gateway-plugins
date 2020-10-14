@@ -1,0 +1,6 @@
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/loogg/industry_io_gateway-ntp.git
+[submodule "modbustcp2rtu"]
+	path = modbustcp2rtu
+	url = https://github.com/loogg/industry_io_gateway-modbustcp2rtu.git
