@@ -4,6 +4,6 @@
 [submodule "modbustcp2rtu"]
 	path = modbustcp2rtu
 	url = https://github.com/loogg/industry_io_gateway-modbustcp2rtu.git
-[submodule "industry_io_gateway-mqtt_shell"]
-	path = industry_io_gateway-mqtt_shell
+[submodule "mqtt_shell"]
+	path = mqtt_shell
 	url = https://github.com/loogg/industry_io_gateway-mqtt_shell.git
